@@ -1,0 +1,37 @@
+#body{
+    background-color: beige;
+    font-family: 'Roboto', sans-serif;
+}
+#header{
+    text-align: center;
+    background-color: beige;
+    font-family: 'Roboto', sans-serif;
+}
+#start_button{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color:deepskyblue;
+    color:black;
+    font-family: 'Roboto', sans-serif;
+}
+#times_detected, #animal_type{
+    font-family: 'Roboto', sans-serif;
+}
+#image{
+    width: 300px;
+    height: 300px;
+    border-radius: 3px;
+    background-color:blanchedalmond;
+    border: 4px;
+    border-style: dashed;
+    font-family: 'Roboto', sans-serif;
+}
+#footer{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
